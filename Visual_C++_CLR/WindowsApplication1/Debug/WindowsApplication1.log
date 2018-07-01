@@ -1,0 +1,1 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Platforms\Win32\PlatformToolsets\v141\Toolset.targets(34,5): error MSB8036: 找不到 Windows SDK 版本 10.0.15063.0。安裝所需的 Windows SDK 版本，或變更在專案屬性頁的 SDK 版本，或在方案上按一下滑鼠右鍵，並選取 [重定方案目標]。

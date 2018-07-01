@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中繼目錄 (x64\Debug\) 包含從其他專案 (WindowsApplication1.vcxproj) 共用的檔案。這可能導致錯誤的清除和重建行為。
+  MyForm.cpp
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  WindowsApplication1.vcxproj -> C:\Users\simon\Desktop\WindowsApplication1\WindowsApplication1\x64\Debug\Visual_C++_CLR.exe

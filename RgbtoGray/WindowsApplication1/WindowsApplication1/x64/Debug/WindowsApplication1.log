@@ -1,0 +1,3 @@
+﻿  MyForm.cpp
+c:\users\simon\desktop\rgbtogray\windowsapplication1\windowsapplication1\myform.h(176): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  WindowsApplication1.vcxproj -> C:\Users\simon\Desktop\RgbtoGray\WindowsApplication1\x64\Debug\WindowsApplication1.exe

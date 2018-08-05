@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+c:\users\simon\desktop\rgbtogray\windowsapplication1\windowsapplication1\myform.h(182): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\simon\desktop\rgbtogray\windowsapplication1\windowsapplication1\myform.h(183): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  WindowsApplication1.vcxproj -> C:\Users\simon\Desktop\RgbtoGray\WindowsApplication1\x64\Debug\WindowsApplication1.exe

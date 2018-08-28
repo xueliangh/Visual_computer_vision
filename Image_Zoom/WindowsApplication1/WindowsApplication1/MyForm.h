@@ -178,9 +178,9 @@ namespace WindowsApplication1
 		for (int y = 0; y < image1->Height; y++) {
 			for (int x = 0; x < image1->Width; x++) {
 
-				//將影像寬度及高度放大1.2倍  +0.5 取整數
-				int xx = x / Convert::ToSingle(textBox1->Text);
-				int yy = y / Convert::ToSingle(textBox1->Text);
+				//將影像寬度及高度放大N倍  +0.5 取整數
+				int xx = x / Convert::ToSingle(textBox1->Text) + 0.5;
+				int yy = y / Convert::ToSingle(textBox1->Text) + 0.5;
 
 				//算出目前指標與目標像素的差
 				int a = (xx - x) + ((yy - y)*image1->Width);

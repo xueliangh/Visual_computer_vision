@@ -187,20 +187,17 @@ namespace WindowsApplication1
 
 				X = sqrt(-2.0 * log(u)) * cos(2.0 * M_PI * v) * std + mean;//M_PI=3.14159
 
-				if (X > 2 || X < -2) 
+				if (X > 2) //¼»ÆQ
 				{
-					if (X > 2) //¼»ÆQ
-					{
-						R[0] = 255;
-						R[1] = 255;
-						R[2] = 255;
-					}
-					else if (X < -2)  //¼»¶Â­J´Ô
-					{
-						R[0] = 0;
-						R[1] = 0;
-						R[2] = 0;
-					}
+					R[0] = 255;
+					R[1] = 255;
+					R[2] = 255;
+				}
+				else if (X < -2)  //¼»¶Â­J´Ô
+				{
+					R[0] = 0;
+					R[1] = 0;
+					R[2] = 0;
 				}
 				else
 				{

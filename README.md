@@ -1,3 +1,5 @@
-# visual-C-CLR-
+# visual-c++ clr
 
-C++ CLR專案
+使用visual studio 2017做為開發工具
+
+以C++ clr專案撰寫影像處理程式
